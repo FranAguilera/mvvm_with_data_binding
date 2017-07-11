@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mvvm_api_demo</string>
+    <string name="observable_text">Updated from OBSERVABLE </string>
+    <string name="notify_text_tag">Updated from NOTIFY</string>
+    <string name="number_of_clicks">: </string>
+    <string name="odd"> Odd </string>
+    <string name="even"> Even </string>
+</resources>
